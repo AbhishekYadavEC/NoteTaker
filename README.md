@@ -1,5 +1,9 @@
 # CodeBin
-
+Build By Abhishek
+Project Name -> NoteTaker
+<br>
+Here we have describe all about Project Description.
+<br>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
 
 ## Development server
